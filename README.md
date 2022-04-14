@@ -1,4 +1,6 @@
 # FreeLa-Way
+Projeto foi desenvolvido no evento Pystack Week proporcionado pelo pythonando
+
 Aplicativo de contratação e prestação de serviços de design e edição de vídeo
 
 A aplicação foi desenvolvida com o framework django do python
