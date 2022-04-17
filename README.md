@@ -51,13 +51,17 @@
 
 - Abra o VSCode e acesse os arquivos da aplicação
 - Abra um terminal
-- Crie um ambiente virtual rodando esse codigo:
-<br>
-Para Linux: python3 -m venv venv
-Para Windows: python -m venv venv
-- Logo em seguida digite o seguinte:
-<br>
-Para Linux: source venv/bin/activate
-Para Windows: venv/Scripts/Activate
-- Depois de feito rode esse código: python3 manage.py runserver
+- Crie um ambiente virtual rodando esse codigo:  
+
+Para Linux: `python3 -m venv venv`  
+
+Para Windows: `python -m venv venv`  
+
+- Logo em seguida digite o seguinte:  
+
+Para Linux: `source venv/bin/activate`  
+
+Para Windows: `venv/Scripts/Activate`  
+
+- Depois de feito rode esse código: `python3 manage.py runserver`
 - Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web
