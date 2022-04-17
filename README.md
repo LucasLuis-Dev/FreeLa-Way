@@ -66,5 +66,11 @@ Para Linux: `source venv/bin/activate`
 
 Para Windows: `venv/Scripts/Activate`  
 
+- Instale as bibliotecas rodando no terminal:  
+
+`pip install django`  
+
+`pip install pillow`  
+
 - Depois de feito rode esse código no terminal: `python3 manage.py runserver`
 - Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web
