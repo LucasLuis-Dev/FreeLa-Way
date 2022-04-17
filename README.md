@@ -34,9 +34,30 @@
 
 - Com este projeto pude desenvolver ainda mais minhas soft skills, obter conhecimentos de linguagens Front-End e adquirir conhecimentos de Frameworks e suas utilizações.
 
-- Para a utilização é necessário possuir o VSCode instalado junto com o SQLite
+- Para a utilização é necessário possuir o Python, VSCode e SQLite instalados
+(clique nos icones para fazer o dowmload das tecnologias)
 <div>
-  <form>
-     <button type='submit' formaction="https://code.visualstudio.com/download">VSCode download</button>
-  </form>
+  <a href="https://code.visualstudio.com/download" target="_blank"><img align="left" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.sqlite.org/download.html" target="_blank"><img align="left" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.python.org/downloads/" target="_blank"><img align="left" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" target="_blank"></a>
+  
 </div>
+<br>
+<br>
+<br>
+<br>
+
+# PASSO A PASSO DE UTILIZAÇÃO:
+
+- Abra o VSCode e acesse os arquivos da aplicação
+- Abra um terminal
+- Crie um ambiente virtual rodando esse codigo:
+<br>
+Para Linux: python3 -m venv venv
+Para Windows: python -m venv venv
+- Logo em seguida digite o seguinte:
+<br>
+Para Linux: source venv/bin/activate
+Para Windows: venv/Scripts/Activate
+- Depois de feito rode esse código: python3 manage.py runserver
+- Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web
