@@ -28,7 +28,9 @@
 
 - Projeto de aplicação web de contratação e prestação de serviços de design e edição de video.
 
-- Este projeto possui ligação com um banco de dados para salvar informações de usuários e arquivos de mídia que são enviados ou disponibilizados na aplicação. -O projeto foi desenvolvido em conjunto no evento PyStack Week 3.0 proporcionado pela Pythonando
+- Este projeto possui ligação com um banco de dados para salvar informações de usuários e arquivos de mídia que são enviados ou disponibilizados na aplicação. 
+
+- O projeto foi desenvolvido em conjunto no evento PyStack Week 3.0 proporcionado pela Pythonando
 
 - Foram utilizados as linguagens de programação Python, CSS e HTML e os Frameworks Django e Bootstrap.
 
@@ -49,19 +51,20 @@
 
 # PASSO A PASSO DE UTILIZAÇÃO:
 
+- Depois de tudo instalado
 - Abra o VSCode e acesse os arquivos da aplicação
 - Abra um terminal
-- Crie um ambiente virtual rodando esse codigo:  
+- Crie um ambiente virtual rodando esse codigo no terminal:  
 
 Para Linux: `python3 -m venv venv`  
 
 Para Windows: `python -m venv venv`  
 
-- Logo em seguida digite o seguinte:  
+- Logo em seguida digite e rode o seguinte no terminal:  
 
 Para Linux: `source venv/bin/activate`  
 
 Para Windows: `venv/Scripts/Activate`  
 
-- Depois de feito rode esse código: `python3 manage.py runserver`
+- Depois de feito rode esse código no terminal: `python3 manage.py runserver`
 - Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web
