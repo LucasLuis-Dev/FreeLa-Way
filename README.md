@@ -60,7 +60,7 @@ Para Linux: `python3 -m venv venv`
 
 Para Windows: `python -m venv venv`  
 
-- Logo em seguida digite e rode o seguinte no terminal:  
+- Logo em seguida digite e rode o seguinte código em seu terminal, para a criação de um ambiente virtual:  
 
 Para Linux: `source venv/bin/activate`  
 
@@ -73,4 +73,9 @@ Para Windows: `venv/Scripts/Activate`
 `pip install pillow`  
 
 - Depois de feito rode esse código no terminal: `python3 manage.py runserver`
-- Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web
+- Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web  
+- Este é o acesso para se fazer o cadastro: http://127.0.0.1:8000/auth/cadastro/
+- Para adicionar novos trabalhos ou gerenciar os usuários, é necessario criar um admin no terminal com o servidor desligado:  
+- Rode este código para criar a admin : `python manage.py createsuperuser`
+- Preencha com seu nome e senha desejado e acesse o servidor, depois de você liga-lo novamente, por meio deste link : http://127.0.0.1:8000/admin/login/?next=/admin/
+
