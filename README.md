@@ -75,7 +75,8 @@ Para Windows: `venv/Scripts/Activate`
 - Depois de feito rode esse código no terminal, para ligar o servidor: `python3 manage.py runserver`
 - Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web  
 - Este é o acesso para se fazer o cadastro: http://127.0.0.1:8000/auth/cadastro/
-- Para adicionar novos trabalhos ou gerenciar os usuários, é necessario criar um admin no terminal com o servidor desligado:  
+- Para desligar o servidor é necessário usar o atalho do teclado: CTRL + C
+- Para adicionar novos trabalhos ou gerenciar os usuários, é necessário criar um admin no terminal com o servidor desligado:  
 - Rode este código para criar a admin : `python manage.py createsuperuser`
 - Preencha com seu nome e senha desejado e acesse o servidor, depois de você liga-lo novamente, por meio deste link : http://127.0.0.1:8000/admin/login/?next=/admin/
 
