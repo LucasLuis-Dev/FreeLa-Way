@@ -68,9 +68,9 @@ Para Windows: `venv/Scripts/Activate`
 
 - Instale as bibliotecas rodando no terminal:  
 
-`pip install django`  
+`python3 -m pip install django`  
 
-`pip install pillow`  
+`python3 -m pip install pillow`  
 
 - Depois de feito rode esse código no terminal, para ligar o servidor: `python3 manage.py runserver`
 - Após isso o servidor será aberto e acessando-o você terá acesso a aplicação web  
