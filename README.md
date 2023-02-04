@@ -1,40 +1,29 @@
-# FreeLa-Way
+# 💻 FreeLa Way
 
 <div>
   <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965228546219986984/Captura_de_tela_de_2022-04-09_11-55-50.png">
 
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965229242327629824/Captura_de_tela_de_2022-04-09_11-57-13.png">
   
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965229847825768478/Captura_de_tela_de_2022-04-09_12-03-28.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965230629941837895/Captura_de_tela_de_2022-04-09_12-03-51.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231057517572206/Captura_de_tela_de_2022-04-09_12-04-51.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231391233163264/Captura_de_tela_de_2022-04-09_12-05-21.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231676542287953/Captura_de_tela_de_2022-04-09_12-06-38.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232030143111248/Captura_de_tela_de_2022-04-09_12-07-03.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232252281847899/Captura_de_tela_de_2022-04-09_12-12-19.png">
-  
-  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232390798716998/Captura_de_tela_de_2022-04-09_12-14-02.png">
 </div>
 
-##
+## 📄 Descrição
 
-# Descrição
+Projeto de aplicação web de contratação e prestação de serviços de design e edição de video, desenvolvido em conjunto no evento PyStack Week 3.0 proporcionado pela Pythonando.
 
-- Projeto de aplicação web de contratação e prestação de serviços de design e edição de video.
+Este projeto possui ligação com um banco de dados para salvar informações de usuários e arquivos de mídia que são enviados ou disponibilizados na aplicação. 
 
-- Este projeto possui ligação com um banco de dados para salvar informações de usuários e arquivos de mídia que são enviados ou disponibilizados na aplicação. 
+### 🎯Tecnologias
+- Python
+- Django
+- Bootstrap
+- HTML
+- CSS
 
-- O projeto foi desenvolvido em conjunto no evento PyStack Week 3.0 proporcionado pela Pythonando
+Com este projeto pude desenvolver ainda mais minhas hard skills, obter conhecimentos de linguagens Front-End e adquirir conhecimentos de Frameworks e suas utilizações.
 
-- Foram utilizados as linguagens de programação Python, CSS e HTML e os Frameworks Django e Bootstrap.
 
-- Com este projeto pude desenvolver ainda mais minhas soft skills, obter conhecimentos de linguagens Front-End e adquirir conhecimentos de Frameworks e suas utilizações.
+
+## 👣 Passo a Passo de Utilização:
 
 - Para a utilização é necessário possuir o Python, VSCode e SQLite instalados
 (clique nos icones para fazer o dowmload das tecnologias)
@@ -48,8 +37,7 @@
 <br>
 <br>
 <br>
-
-# PASSO A PASSO DE UTILIZAÇÃO:
+<br>
 
 - Depois de tudo instalado
 - Abra o VSCode e acesse os arquivos da aplicação
@@ -79,4 +67,23 @@ Para Windows: `venv/Scripts/Activate`
 - Para adicionar novos trabalhos ou gerenciar os usuários, é necessário criar um admin no terminal com o servidor desligado:  
 - Rode este código para criar a admin : `python manage.py createsuperuser`
 - Preencha com seu nome e senha desejado e acesse o servidor, depois de você liga-lo novamente, por meio deste link : http://127.0.0.1:8000/admin/login/?next=/admin/
+
+
+<img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965229242327629824/Captura_de_tela_de_2022-04-09_11-57-13.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965229847825768478/Captura_de_tela_de_2022-04-09_12-03-28.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965230629941837895/Captura_de_tela_de_2022-04-09_12-03-51.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231057517572206/Captura_de_tela_de_2022-04-09_12-04-51.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231391233163264/Captura_de_tela_de_2022-04-09_12-05-21.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965231676542287953/Captura_de_tela_de_2022-04-09_12-06-38.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232030143111248/Captura_de_tela_de_2022-04-09_12-07-03.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232252281847899/Captura_de_tela_de_2022-04-09_12-12-19.png">
+  
+  <img align="center" alt="Lucas-Project" height="500" width="900" src="https://cdn.discordapp.com/attachments/965066624556232737/965232390798716998/Captura_de_tela_de_2022-04-09_12-14-02.png">
 
